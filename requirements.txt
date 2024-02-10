@@ -1,0 +1,2 @@
+g4f==1.0.0
+customtkinter==2.0.3
