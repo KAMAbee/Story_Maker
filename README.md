@@ -72,10 +72,14 @@ root.mainloop()
 
 ## Installation
 Clone the repository to your computer:
-``` git clone https://github.com/KAMAbee/Story_Maker.git ```
+```bush
+git clone https://github.com/KAMAbee/Story_Maker.git
+```
 
 Install the necessary dependencies:
-``` pip install -r requirements.txt ```
+```terminal
+pip install -r requirements.txt
+ ```
   
 ## Running:
 To run the application, execute the following command in the terminal:
