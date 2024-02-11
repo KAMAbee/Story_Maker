@@ -1,4 +1,3 @@
-# Story Maker
 ```python
 import g4f
 import customtkinter as ctk
@@ -67,7 +66,7 @@ ent3.place(relx = 0.715, rely = 0.25,anchor = ctk.W)
 
 root.mainloop()
 ```
-
+# Story Maker
 "Story Maker" project is a simple application for creating stories based on given themes and text length.
 
 ## Installation
