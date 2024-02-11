@@ -1,4 +1,4 @@
-# Story_Maker
+# Story Maker
 ```python
 import g4f
 import customtkinter as ctk
