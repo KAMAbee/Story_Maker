@@ -1,4 +1,4 @@
-import g4f
+свimport g4f
 import customtkinter as ctk
 
 
