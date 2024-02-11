@@ -83,7 +83,9 @@ pip install -r requirements.txt
   
 ## Running:
 To run the application, execute the following command in the terminal:
-``` python main.py ```
+```terminal
+python main.py
+ ```
 
 ## Usage 
 - Select the desired length of the story using the slider.
